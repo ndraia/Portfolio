@@ -1,7 +1,7 @@
 # Portfolio
 
 
-&h
+______________________________________________________________
 
 ### Introduction
 
@@ -11,4 +11,4 @@ In this portfolio, you’ll find a collection of my projects that demonstrate my
 
 Feel free to dive into the projects, and don’t hesitate to reach out if you have any questions or feedback.
 
-$h
+______________________________________________________________
