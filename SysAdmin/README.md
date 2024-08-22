@@ -1,7 +1,5 @@
 # SysAdmin Projects
 
-## SysAdmin Projects
-
 Here are some of my key projects in system administration:
 
 - [Project 1: Apache Server Configuration on Arch Linux](https://github.com/ndraia/Portfolio/blob/main/SysAdmin/Project1-ApacheServerConfig/README.md)
