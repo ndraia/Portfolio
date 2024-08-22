@@ -9,7 +9,7 @@ Welcome to my portfolio! With a decade of experience as a self-taught Linux user
 
 In this portfolio, you’ll find a collection of my projects that demonstrate my proficiency in managing and configuring Linux environments, particularly with a focus on security and server administration.  
 
-    [SysAdmin Projects](https://github.com/ndraia/Portfolio/blob/main/SysAdmin/README.md)
+   - [SysAdmin Projects](https://github.com/ndraia/Portfolio/blob/main/SysAdmin/README.md)
 
 Whether you’re here to explore my work or to connect for professional opportunities, I hope you find my projects insightful and reflective of my dedication to the Linux community.
 
