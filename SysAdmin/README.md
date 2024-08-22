@@ -8,6 +8,7 @@ Here are some of my key projects in system administration:
 
 ## Other Projects
 
-- [Project 4: Automated Backup with Bash Scripts](./OtherProjects/Project4-AutomationScripts/README.md)  
+- [Project 4: Automated Backup with Bash Scripts](./OtherProjects/Project4-AutomationScripts/README.md)
+_________________________________________________________________________________________________________________________________  
 
-- [Main]()
+- [Main](https://github.com/ndraia/Portfolio/blob/main/README.md)
